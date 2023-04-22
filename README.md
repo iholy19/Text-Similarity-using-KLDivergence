@@ -6,6 +6,7 @@ Given 2 data distributions or probability distributions, KL divergence is used i
 It is calculated using the below formula,
 
 KL(p,q) = sum(p(x_i) * log(p(x_i)/q(x_i)))
+
 Here we have used spacy and nltk libraries to preprocess the sentences and create a data distribution. Then we applied the KL divergence on the 2 distributions of the sentences
 
 ### Properties of KL divergence
