@@ -11,6 +11,6 @@ Here we have used spacy and nltk libraries to preprocess the sentences and creat
 
 ### Properties of KL divergence
 
-It does not say about the distance between 2 distributions
-KL(P,Q) ≠ KL(Q,P)
-The KL(P,Q) is defined only when at any x, p(x) exists and ≠ 0
+* It does not say about the distance between 2 distributions
+* KL(P,Q) ≠ KL(Q,P)
+* The KL(P,Q) is defined only when at any x, p(x) exists and ≠ 0
